@@ -3,7 +3,7 @@
 > A repository of my exercise on LeetCode.
 ## year 2017
 
-###March
+### March
 
 |                  Index                   |                  Title                   | Solution | Difficulty |                   Tag                    |
 | :--------------------------------------: | :--------------------------------------: | :------: | :--------: | :--------------------------------------: |
