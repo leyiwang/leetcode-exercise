@@ -11,10 +11,12 @@
 | [2](https://leetcode.com/problems/add-two-numbers/#/description) |             Add Two Numbers              |   C++    |   Medium   |            Linked List / Math            |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | Longest Substring Without Repeating Characters |   C++    |   Medium   |     Hash Table/ Two Pointers /String     |
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |       Median of Two Sorted Arrays        |   C++    |    Hard    | Binary Search / Array / Divide and Conquer |
+| [7](https://leetcode.com/problems/reverse-integer/#/description) |             Reverse Integer              |   C++    |    Easy    |                   Math                   |
+| [8](https://leetcode.com/problems/string-to-integer-atoi/#/description) |         String to Integer (atoi)         |   C++    |   Medium   |              Math / String               |
 | [34](https://leetcode.com/problems/search-for-a-range/#/description) |            Search for a Range            |   C++    |   Medium   |          Binary Search / Array           |
 | [35](https://leetcode.com/problems/search-insert-position/#/description) |          Search Insert Position          |   C++    |    Easy    |          Binary Search / Array           |
 | [50](https://leetcode.com/problems/powx-n/#/description) |                Pow(x, n)                 |   C++    |   Medium   |           Binary Search / Math           |
-| [456](https://leetcode.com/problems/132-pattern/#/description) |               132 Pattern                |          |   Medium   |                  stack                   |
+| [456](https://leetcode.com/problems/132-pattern/#/description) |               132 Pattern                |   C++    |   Medium   |                  stack                   |
 
 ## Author
 
