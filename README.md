@@ -13,10 +13,13 @@
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) |       Median of Two Sorted Arrays        |   C++    |    Hard    | Binary Search / Array / Divide and Conquer |
 | [7](https://leetcode.com/problems/reverse-integer/#/description) |             Reverse Integer              |   C++    |    Easy    |                   Math                   |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/#/description) |         String to Integer (atoi)         |   C++    |   Medium   |              Math / String               |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description) |     Remove Nth Node From End of List     |   C++    |   Medium   |        Linked List /Two Pointers         |
+| [27](https://leetcode.com/problems/remove-element/#/description) |              Remove Element              |   C++    |    Easy    |           Array / Two Pointers           |
 | [34](https://leetcode.com/problems/search-for-a-range/#/description) |            Search for a Range            |   C++    |   Medium   |          Binary Search / Array           |
 | [35](https://leetcode.com/problems/search-insert-position/#/description) |          Search Insert Position          |   C++    |    Easy    |          Binary Search / Array           |
 | [50](https://leetcode.com/problems/powx-n/#/description) |                Pow(x, n)                 |   C++    |   Medium   |           Binary Search / Math           |
 | [456](https://leetcode.com/problems/132-pattern/#/description) |               132 Pattern                |   C++    |   Medium   |                  stack                   |
+| [507](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/) |              Perfect Number              |   C++    |    Easy    |                    -                     |
 
 ## Author
 
