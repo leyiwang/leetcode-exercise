@@ -1,6 +1,6 @@
 # Leetcode Record
 
-> A repository of my exercise on LeetCode.
+> A repository of my exercise on [LeetCode](https://leetcode.com).
 ## year 2017
 
 ### March
@@ -17,9 +17,10 @@
 | [27](https://leetcode.com/problems/remove-element/#/description) |              Remove Element              |   C++    |    Easy    |           Array / Two Pointers           |
 | [34](https://leetcode.com/problems/search-for-a-range/#/description) |            Search for a Range            |   C++    |   Medium   |          Binary Search / Array           |
 | [35](https://leetcode.com/problems/search-insert-position/#/description) |          Search Insert Position          |   C++    |    Easy    |          Binary Search / Array           |
+| [43](https://leetcode.com/problems/multiply-strings/#/description) |             Multiply Strings             |   C++    |   Medium   |              Math / String               |
 | [50](https://leetcode.com/problems/powx-n/#/description) |                Pow(x, n)                 |   C++    |   Medium   |           Binary Search / Math           |
 | [456](https://leetcode.com/problems/132-pattern/#/description) |               132 Pattern                |   C++    |   Medium   |                  stack                   |
-| [507](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/) |              Perfect Number              |   C++    |    Easy    |                    -                     |
+| [507](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/) |              Perfect Number              |   C++    |    Easy    |                                          |
 
 ## Author
 
@@ -31,6 +32,6 @@ Blog:https://leyiwang.github.io/
 
 ## Change History
 
-Date: Last update 2017-03-30 
+Date: Last update 2017-03-31 
 
 Date: Update 2017-03-29 
