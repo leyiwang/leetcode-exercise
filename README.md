@@ -24,6 +24,7 @@
 | [507](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/) |              Perfect Number              |   C++    |    Easy    |                    -                     |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description) |   Remove Duplicates from Sorted Array    |   C++    |    Easy    |            Array / Two Points            |
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/#/description) |  Remove Duplicates from Sorted Array II  |   C++    |   Medium   |            Array / Two Points            |
+| [456](https://leetcode.com/problems/132-pattern/#/description) |               132 Pattern                |   C++    |   Medium   |                  Stack                   |
 
 ## Author
 
