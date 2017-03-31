@@ -21,8 +21,9 @@
 | [43](https://leetcode.com/problems/multiply-strings/#/description) |             Multiply Strings             |   C++    |   Medium   |              Math / String               |
 | [50](https://leetcode.com/problems/powx-n/#/description) |                Pow(x, n)                 |   C++    |   Medium   |           Binary Search / Math           |
 | [456](https://leetcode.com/problems/132-pattern/#/description) |               132 Pattern                |   C++    |   Medium   |                  stack                   |
-| [507](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/) |              Perfect Number              |   C++    |    Easy    |                                          |
+| [507](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/) |              Perfect Number              |   C++    |    Easy    |                    -                     |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description) |   Remove Duplicates from Sorted Array    |   C++    |    Easy    |            Array / Two Points            |
+| [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/#/description) |  Remove Duplicates from Sorted Array II  |   C++    |   Medium   |            Array / Two Points            |
 
 ## Author
 
