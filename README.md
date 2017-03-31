@@ -14,6 +14,7 @@
 | [7](https://leetcode.com/problems/reverse-integer/#/description) |             Reverse Integer              |   C++    |    Easy    |                   Math                   |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/#/description) |         String to Integer (atoi)         |   C++    |   Medium   |              Math / String               |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description) |     Remove Nth Node From End of List     |   C++    |   Medium   |        Linked List /Two Pointers         |
+| [31](https://leetcode.com/problems/next-permutation/#/description) |             Next Permutation             |   C++    |   Medium   |                  Array                   |
 | [27](https://leetcode.com/problems/remove-element/#/description) |              Remove Element              |   C++    |    Easy    |           Array / Two Pointers           |
 | [34](https://leetcode.com/problems/search-for-a-range/#/description) |            Search for a Range            |   C++    |   Medium   |          Binary Search / Array           |
 | [35](https://leetcode.com/problems/search-insert-position/#/description) |          Search Insert Position          |   C++    |    Easy    |          Binary Search / Array           |
