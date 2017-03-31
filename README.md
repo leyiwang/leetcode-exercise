@@ -3,6 +3,12 @@
 > A repository of my exercise on [LeetCode](https://leetcode.com).
 ## year 2017
 
+### April
+
+|                  Index                   |  Title  | Solution | Difficulty |         Tag          |
+| :--------------------------------------: | :-----: | :------: | :--------: | :------------------: |
+| [69](https://leetcode.com/problems/sqrtx/#/description) | Sqrt(x) |   C++    |    Easy    | Binary Search / Math |
+
 ### March
 
 |                  Index                   |                  Title                   | Solution | Difficulty |                   Tag                    |
