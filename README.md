@@ -5,9 +5,10 @@
 
 ### April
 
-|                  Index                   |  Title  | Solution | Difficulty |         Tag          |
-| :--------------------------------------: | :-----: | :------: | :--------: | :------------------: |
-| [69](https://leetcode.com/problems/sqrtx/#/description) | Sqrt(x) |   C++    |    Easy    | Binary Search / Math |
+|                  Index                   |       Title       | Solution | Difficulty |         Tag          |
+| :--------------------------------------: | :---------------: | :------: | :--------: | :------------------: |
+| [69](https://leetcode.com/problems/sqrtx/#/description) |      Sqrt(x)      |   C++    |    Easy    | Binary Search / Math |
+| [9](https://leetcode.com/problems/palindrome-number/#/description) | Palindrome Number |   C++    |    Easy    |         Math         |
 
 ### March
 
@@ -43,6 +44,6 @@ Blog:https://leyiwang.github.io/
 
 ## Change History
 
-Date: Last update 2017-03-31 
+Date: Last update 2017-04-01 
 
 Date: Update 2017-03-29 
