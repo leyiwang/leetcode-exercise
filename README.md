@@ -10,6 +10,7 @@
 | [69](https://leetcode.com/problems/sqrtx/#/description) |        Sqrt(x)         |   C++    |    Easy    | Binary Search / Math |
 | [9](https://leetcode.com/problems/palindrome-number/#/description) |   Palindrome Number    |   C++    |    Easy    |         Math         |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/#/description) | Merge Two Sorted Lists |   C++    |    Easy    |     Linked List      |
+| [24](https://leetcode.com/problems/swap-nodes-in-pairs/#/description) |  Swap Nodes in Pairs   |   C++    |   Medium   |     Linked List      |
 
 ### March
 
